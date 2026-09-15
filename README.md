@@ -26,7 +26,7 @@ Databricks, Delta Lake, and Databricks SQL**.
                                ▼
                     ┌──────────────────────┐
                     │ Azure Data Lake      │
-                    │ Storage Gen2          │
+                    │ Storage Gen2         │
                     │ landing-zone-1       │
                     └──────────┬───────────┘
                                │
@@ -57,8 +57,8 @@ Databricks, Delta Lake, and Databricks SQL**.
                                │
                                ▼
                     ┌──────────────────────┐
-                    │ Silver Delta Layer  │
-                    │ Cleaned User Data   │
+                    │ Silver Delta Layer   │
+                    │ Cleaned User Data    │
                     └──────────┬───────────┘
                                │
                                ▼
@@ -69,8 +69,8 @@ Databricks, Delta Lake, and Databricks SQL**.
                                │
                                ▼
                     ┌──────────────────────┐
-                    │ AI/BI Dashboard       │
-                    │ User Analytics        │
+                    │ AI/BI Dashboard      │
+                    │ User Analytics       │
                     └──────────────────────┘
 ```
 
